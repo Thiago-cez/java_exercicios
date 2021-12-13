@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio3 {
 
 	public static void main(String[] args) {
-	
+	    
 		Scanner input = new Scanner(System.in);
 		int idade = 0, menor21 = 0,maior50 = 0;
 		while(idade !=-99) {

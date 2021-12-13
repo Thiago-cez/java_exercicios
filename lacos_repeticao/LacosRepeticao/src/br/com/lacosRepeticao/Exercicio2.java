@@ -16,7 +16,7 @@ public class Exercicio2 {
 			}
 			else {
 				impar = impar + 1;
-			}
+			}     
 		}
 		System.out.printf("A Quantidade de números pares é: %d e a quantidade de ímpares é: %d\n",par,impar);
 		input.close();

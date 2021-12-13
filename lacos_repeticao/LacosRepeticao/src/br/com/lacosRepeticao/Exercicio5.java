@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio5 {
 
 	public static void main(String[] args) {
-	
+	     
 		Scanner input = new Scanner(System.in);
 		int i = 1, num, soma = 0;
 		do {

@@ -10,7 +10,7 @@ public class Exercicio1 {
 				Thread.sleep(500);
 			}
 		}
-
+       
 	}
 
 }
